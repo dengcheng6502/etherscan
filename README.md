@@ -8,7 +8,7 @@
 
 etherscan网址：https://cn.etherscan.com
 
-##查看以太坊网络
+## 查看以太坊网络
 
 进入到 etherscan 后，首页显示的就是我们当前的以太坊网络的概览，通过这些数据我们可以了解到当前以太坊网络的大致运行情况。
 
@@ -24,7 +24,7 @@ MARKET CAP 是指目前以太坊的总市值，DIFFICULTY 则是目前的平均�
 
 MARKET CAP 旁边的 HASH RATE 指的则是全网算力，点开它，我们还可以看到以太坊网络全网算力的历史情况。
 
-##Blocks与Transactions查询
+## Blocks与Transactions查询
 
 再往下的两块 Latest Blocks 与 Lastes Transactions 则分别是最近刚刚生成的区块与交易。
 
@@ -52,7 +52,7 @@ Blocks 这边，10611985这些数字代表的是区块高度，Miner 后面的�
 
 最后，如果我们想要查询具体的某交易、某区块、某地址的详细信息，也可以直接通过首页的搜索栏进行搜索。
 
-##基于以太坊发行的TOKEN
+## 基于以太坊发行的TOKEN
 
 除了通过 etherscan 查询以太坊网络的当前数据外，查询基于以太坊发行的代币信息也是我们常用的功能。
 
