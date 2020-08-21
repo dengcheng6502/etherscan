@@ -135,7 +135,7 @@ ERC-721 Token 则是非同质化代币（NFT），例如此前爆火的加密猫
 
         https://etherscan.io/address/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB#code
         
-  (备注：该合约中的撤销部分值得着重学习)
+        (备注：该合约中的撤销部分值得着重学习)
 
 **借贷类：**
 - Compound：
@@ -149,7 +149,7 @@ ERC-721 Token 则是非同质化代币（NFT），例如此前爆火的加密猫
 
          https://etherscan.io/address/0xD91E45416bfbBEc6e2D1ae4aC83b788A21Acf583#code
          
-  (备注：该合约中的预言机部分值得着重学习)
+         (备注：该合约中的预言机部分值得着重学习)
 
 **DAO类：**
 - The DAO:
