@@ -106,14 +106,56 @@ ERC-721 Token 则是非同质化代币（NFT），例如此前爆火的加密猫
 
 这里也为大家附上一些经典的合约的库地址，方便大家学习。
 
-预言机类：
-- ChainLink：https://github.com/smartcontractkit/chainlink
+**预言机类：**
+- ChainLink：
 
-稳定币类：
-- Dai：https://github.com/makerdao/dss
+             https://github.com/smartcontractkit/chainlink(源码仓库)
+             
+             https://etherscan.io/address/0x514910771af9ca656af840dff83e8264ecf986ca#code
+                
+**稳定币类：**
+- Dai：
 
-借贷类：
-- Compound：https://github.com/compound-finance/compound-protocol
+       https://github.com/makerdao/dss(源码仓库)
+       
+       https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f#code
+       
+- USDT：
+
+       https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
+       
+       (备注：该合约中对于最新合约版本的查询值得着重学习)
+
+**NFT类：**
+- CryptoKitties (加密猫):
+
+        https://etherscan.io/address/0x06012c8cf97BEaD5deAe237070F9587f8E7A266d#code
+        
+- CryptoPunks (加密朋克):
+
+        https://etherscan.io/address/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB#code
+        
+  (备注：该合约中的撤销部分值得着重学习)
+
+**借贷类：**
+- Compound：
+
+         https://github.com/compound-finance/compound-protocol(源码仓库)
+         
+         https://etherscan.io/address/0xc00e94cb662c3520282e6f5717214004a7f26888#code
+
+**博彩类Dapp：**
+- Etheroll：
+
+         https://etherscan.io/address/0xD91E45416bfbBEc6e2D1ae4aC83b788A21Acf583#code
+         
+  (备注：该合约中的预言机部分值得着重学习)
+
+**DAO类：**
+- The DAO:
+
+          https://etherscan.io/address/0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413#code
+
 
 ## 其他功能
 
